@@ -45,7 +45,7 @@ curl http://localhost:3000/api/posts
    - Build Command: `npm install`
    - Start Command: `npm start`
 6. Click **Create Web Service**.
-7. Wait for build & deploy to complete. Render will provide a URL like ` `.
+7. Wait for build & deploy to complete. Render will provide a URL like `https://social-api-mahesh.onrender.com/`.
 8. Test endpoints with Postman / curl against the live URL:
    - `POST https://<your-service>.onrender.com/api/posts`
    - `GET https://<your-service>.onrender.com/api/posts`
