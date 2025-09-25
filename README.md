@@ -39,7 +39,7 @@ curl http://localhost:3000/api/posts
 3. Click **New +** → **Web Service**.
 4. Connect your GitHub repo and choose the repo you pushed.
 5. Configure:
-   - Name: `social-api-[yourname]` (example: `social-api-MaheshNagireddy`)
+   - Name: `social-api-[yourname]` (example: `Social-API-Mahesh`)
    - Environment: Node
    - Branch: main (or your branch)
    - Build Command: `npm install`
@@ -70,4 +70,4 @@ Good luck! If you want, I can also:
 - Push this to a GitHub repository for you (I can't access your GitHub without auth, but I can provide the exact `git` commands to run).
 - Help craft the Postman tests and exact screenshot checklist.
 
-GitHub Link: 
+GitHub Link: https://github.com/maheshnagireddy3006/Social-API-Mahesh.git
