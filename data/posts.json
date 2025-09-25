@@ -1,0 +1,26 @@
+[
+  {
+    "postId": "1758789687869-907",
+    "content": "Hello from Kalvium",
+    "author": "Sahithi",
+    "tags": [
+      "test",
+      "kalvium"
+    ],
+    "createdAt": "2025-09-25T08:41:27.869Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": "1758791987081-993",
+    "content": "Hello world",
+    "author": "Alice",
+    "tags": [
+      "intro",
+      "hello"
+    ],
+    "createdAt": "2025-09-25T09:19:47.081Z",
+    "likes": 0,
+    "status": "published"
+  }
+]
